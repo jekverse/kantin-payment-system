@@ -3,24 +3,24 @@
     "uid": "4D0F3C03",
     "name": "jek",
     "initialBalance": 40000,
-    "balance": 50000,
+    "balance": 70000,
     "lastResetDate": "20251111",
     "registeredAt": "2025-11-11T00:28:41.865Z",
     "lastTransaction": {
-      "amount": 20000,
-      "timestamp": "2025-11-11T00:49:02.984Z"
+      "amount": 30000,
+      "timestamp": "2025-11-11T05:23:25.847Z"
     }
   },
   {
     "uid": "A1AEC701",
     "name": "loki",
     "initialBalance": 40000,
-    "balance": 15000,
+    "balance": 0,
     "lastResetDate": "20251111",
     "registeredAt": "2025-11-11T00:30:54.957Z",
     "lastTransaction": {
-      "amount": 25000,
-      "timestamp": "2025-11-11T00:31:29.441Z"
+      "amount": 15000,
+      "timestamp": "2025-11-11T05:23:02.836Z"
     }
   }
 ]
