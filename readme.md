@@ -1,15 +1,3 @@
-Keren 👌 — berikut **README.md** lengkap, ditulis gaya profesional dan edukatif, agar kamu (atau orang lain) bisa langsung paham **cara kerja sistem kantin RFID ini dari ujung ke ujung**.
-
-README ini sudah menjelaskan:
-
-* arsitektur sistem
-* alur kerja (ESP8266 → server → web UI)
-* endpoint API
-* logika harian (reset saldo)
-* cara install & menjalankan
-
----
-
 # 🍽️ Kantin Payment System
 
 **RFID-Based Cashless Payment Platform (ESP8266 + Node.js + Web Dashboard)**
